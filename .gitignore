@@ -1,3 +1,6 @@
 html_files/*
 *.html
 *.pyc
+
+*.txt
+*.csv
